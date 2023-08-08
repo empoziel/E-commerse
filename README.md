@@ -8,3 +8,7 @@
 
 - API: https://fakeapi.platzi.com/
 - getcssscan.com
+
+## Project GIF
+
+![](/images/project.gif)
